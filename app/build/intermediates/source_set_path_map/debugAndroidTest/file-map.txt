@@ -1,0 +1,7 @@
+com.example.authenticator.test.app-jetified-annotation-experimental-1.3.0-0 /Users/fariddamania/.gradle/caches/transforms-3/8e7d75848ec928ad180d922d17932652/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.authenticator.test.app-jetified-core-1.5.0-1 /Users/fariddamania/.gradle/caches/transforms-3/d983876b37e5c0657784b5c9f36bfa5b/transformed/jetified-core-1.5.0/res
+com.example.authenticator.test.app-androidTest-2 /Users/fariddamania/AndroidStudioProjects/Uniaffable/app/build/generated/res/resValues/androidTest/debug
+com.example.authenticator.test.app-androidTest-3 /Users/fariddamania/AndroidStudioProjects/Uniaffable/app/build/generated/res/rs/androidTest/debug
+com.example.authenticator.test.app-mergeDebugAndroidTestResources-4 /Users/fariddamania/AndroidStudioProjects/Uniaffable/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.authenticator.test.app-mergeDebugAndroidTestResources-5 /Users/fariddamania/AndroidStudioProjects/Uniaffable/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.authenticator.test.app-merged_res-6 /Users/fariddamania/AndroidStudioProjects/Uniaffable/app/build/intermediates/merged_res/debugAndroidTest
